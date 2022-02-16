@@ -17,9 +17,5 @@ B
 src/RandomFun.java,5/3/53b139b02a15279d378dabecacd13abf62bf1dfc
 G
 src/DiceSimulation.java,f/5/f596f2eeea8abaa81663cbd58e94209f93a6143e
-Q
-!src/Proj3_1_LearningPackages.java,8/3/83f563c2d04e59f828c363174277524f0e23471d
 I
 src/DivisibleByThree.java,b/1/b132310b068e98ce47e085b872774935ad88179f
-O
-src/Proj3_3_GuessTheNumber.java,5/0/50e737c56553be76cf6d75614b2ae77e4dc58314
