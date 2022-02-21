@@ -1,0 +1,1 @@
+Another solution is to use the BufferedReader. The following code read streams of raw bytes using InputStream and decodes them into characters using a specified charset using an InputStreamReader, and form a string using a platform-dependent line separator. Here, each invocation of the readLine() method would read bytes from the file and convert them into characters.
