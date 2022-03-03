@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SolidDemo.iml" filepath="$PROJECT_DIR$/SolidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidViolation/SolidViolation.iml" filepath="$PROJECT_DIR$/SolidViolation/SolidViolation.iml" />
+    </modules>
+  </component>
+</project>
